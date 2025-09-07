@@ -1,0 +1,57 @@
+[
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image5.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image6.jpg",
+    "match_type": "NEAR_DUPLICATE (sim=0.98)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg",
+    "match_type": "NEAR_DUPLICATE (sim=0.94)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg",
+    "match_type": "NEAR_DUPLICATE (sim=0.93)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg",
+    "match_type": "NEAR_DUPLICATE (sim=0.93)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg",
+    "match_type": "NEAR_DUPLICATE (sim=0.87)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg",
+    "match_type": "NEAR_DUPLICATE (sim=0.87)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png",
+    "match_type": "NEAR_DUPLICATE (sim=0.84)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png",
+    "match_type": "NEAR_DUPLICATE (sim=0.84)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png",
+    "match_type": "NEAR_DUPLICATE (sim=0.83)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png",
+    "match_type": "NEAR_DUPLICATE (sim=0.76)"
+  },
+  {
+    "file1": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg",
+    "file2": "/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg",
+    "match_type": "EXACT_DUPLICATE"
+  }
+]

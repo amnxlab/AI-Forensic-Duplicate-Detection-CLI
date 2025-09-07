@@ -1,0 +1,76 @@
+
+=== ALERT [2025-09-07 14:32:14] ===
+[Snapshot Changes Detected]:
+/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/s.txt ==> MODIFIED (bytes changed)
+[New Duplicate Files Detected]:
+NEAR_DUPLICATE (sim=0.98):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image5.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image6.jpg
+NEAR_DUPLICATE (sim=0.94):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+NEAR_DUPLICATE (sim=0.93):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+NEAR_DUPLICATE (sim=0.93):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+NEAR_DUPLICATE (sim=0.87):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+NEAR_DUPLICATE (sim=0.87):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+NEAR_DUPLICATE (sim=0.84):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+NEAR_DUPLICATE (sim=0.84):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+NEAR_DUPLICATE (sim=0.83):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+NEAR_DUPLICATE (sim=0.76):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+EXACT_DUPLICATE:
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+
+=== ALERT [2025-09-07 14:38:37] ===
+[Snapshot Changes Detected]:
+/home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/script.sh ==> MODIFIED (bytes changed)
+[New Duplicate Files Detected]:
+NEAR_DUPLICATE (sim=0.98):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image5.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image6.jpg
+NEAR_DUPLICATE (sim=0.94):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+NEAR_DUPLICATE (sim=0.93):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+NEAR_DUPLICATE (sim=0.93):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+NEAR_DUPLICATE (sim=0.87):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+NEAR_DUPLICATE (sim=0.87):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+NEAR_DUPLICATE (sim=0.84):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+NEAR_DUPLICATE (sim=0.84):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+NEAR_DUPLICATE (sim=0.83):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image4.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+NEAR_DUPLICATE (sim=0.76):
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image7.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image2.png
+EXACT_DUPLICATE:
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/image3.jpg
+ → /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases/Image1.jpg

@@ -113,3 +113,45 @@
 [2025-05-19 19:35:39] set mode duplicates
 [2025-05-19 19:37:19] ثءهف
 [2025-05-19 19:37:22] exit
+[2025-09-07 13:50:57] help
+[2025-09-07 13:51:13] exit
+[2025-09-07 13:53:07] help
+[2025-09-07 13:54:38] set /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 13:55:46] set mode duplicate
+[2025-09-07 13:56:05] show
+[2025-09-07 13:56:20] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 13:56:24] show
+[2025-09-07 13:56:33] run
+[2025-09-07 13:57:06] set mode duplicates
+[2025-09-07 13:57:09] show
+[2025-09-07 13:57:11] run
+[2025-09-07 14:02:40] احمد
+[2025-09-07 14:05:21] set mode snapshot
+[2025-09-07 14:05:28] show
+[2025-09-07 14:05:37] run
+[2025-09-07 14:06:41] run
+[2025-09-07 14:09:19] exit
+[2025-09-07 14:11:32] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 14:11:43] set mode snapshot
+[2025-09-07 14:11:46] run
+[2025-09-07 14:16:02] exit
+[2025-09-07 14:18:09] help
+[2025-09-07 14:18:19] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 14:18:24] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 14:18:29] set mode snapshot
+[2025-09-07 14:18:31] run
+[2025-09-07 14:20:44] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 14:20:51] set mode snapshot
+[2025-09-07 14:20:57] run
+[2025-09-07 14:23:11] run
+[2025-09-07 14:23:14] exit
+[2025-09-07 14:24:01] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 14:24:08] set mode snapshot
+[2025-09-07 14:24:11] run
+[2025-09-07 14:25:02] run
+[2025-09-07 14:26:45] set mode tracker
+[2025-09-07 14:26:55] run
+[2025-09-07 14:29:48] exit
+[2025-09-07 14:31:06] set path /home/void/Github/AI-Forensic-Duplicate-Detection-CLI/src/ai_model/sample_cases
+[2025-09-07 14:31:13] set mode tracker
+[2025-09-07 14:31:15] run
